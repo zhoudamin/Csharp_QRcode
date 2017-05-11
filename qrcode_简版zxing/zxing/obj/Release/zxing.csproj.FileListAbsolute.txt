@@ -1,0 +1,15 @@
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Release\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Release\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Release\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.pdb
+E:\项目\wwb调试\审核后台源码\myzxingTest_60ee2734-d2e8-47f2-9b43-0f9a620158fe\myzxingTest\zxing\obj\Release\ResolveAssemblyReference.cache
+E:\项目\wwb调试\审核后台源码\myzxingTest_60ee2734-d2e8-47f2-9b43-0f9a620158fe\myzxingTest\zxing\obj\Release\zxing.dll
+E:\项目\wwb调试\审核后台源码\myzxingTest_60ee2734-d2e8-47f2-9b43-0f9a620158fe\myzxingTest\zxing\obj\Release\zxing.pdb
+E:\项目\wwb调试\审核后台源码\myzxingTest_60ee2734-d2e8-47f2-9b43-0f9a620158fe\myzxingTest\zxing\zxing.dll
+E:\项目\wwb调试\审核后台源码\myzxingTest_60ee2734-d2e8-47f2-9b43-0f9a620158fe\myzxingTest\zxing\zxing.pdb
+C:\Users\Luo\Desktop\51CTO下载-ZXing一二维码编码解码器源码\zxing\obj\Release\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Luo\Desktop\51CTO下载-ZXing一二维码编码解码器源码\zxing\obj\Release\zxing.dll
+C:\Users\Luo\Desktop\51CTO下载-ZXing一二维码编码解码器源码\zxing\obj\Release\zxing.pdb
+C:\Users\Luo\Desktop\51CTO下载-ZXing一二维码编码解码器源码\zxing\zxing.dll
+C:\Users\Luo\Desktop\51CTO下载-ZXing一二维码编码解码器源码\zxing\zxing.pdb

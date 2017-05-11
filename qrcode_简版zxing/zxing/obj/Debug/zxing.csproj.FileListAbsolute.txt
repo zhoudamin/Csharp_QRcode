@@ -1,0 +1,25 @@
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\zxing.dll
+E:\技术研究\一二维码\zxing-2.1\csharp\obj\Debug\zxing.pdb
+E:\技术研究\一二维码\zxing-2.1\csharp\zxing.dll
+E:\技术研究\一二维码\zxing-2.1\csharp\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\obj\Debug\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.dll
+E:\技术研究\一二维码\myzxingTest\zxing\zxing.pdb
+G:\New Finder\二维码编码解码器源码\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+G:\New Finder\二维码编码解码器源码\zxing\obj\Debug\zxing.dll
+G:\New Finder\二维码编码解码器源码\zxing\obj\Debug\zxing.pdb
+G:\New Finder\二维码编码解码器源码\zxing\zxing.dll
+G:\New Finder\二维码编码解码器源码\zxing\zxing.pdb
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\zxing\obj\Debug\zxing.dll
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\zxing\obj\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\zxing\zxing.dll
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\zxing\zxing.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\zxing\obj\Debug\zxing.csprojResolveAssemblyReference.cache
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\zxing\obj\Debug\zxing.dll
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\zxing\obj\Debug\zxing.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\zxing\zxing.dll
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\zxing\zxing.pdb

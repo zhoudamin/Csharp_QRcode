@@ -1,0 +1,72 @@
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\WinForm.exe
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\WinForm.pdb
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\zxing.dll
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\zxing.pdb
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.Form1.resources
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.exe
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.pdb
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\WinForm.exe.manifest
+E:\技术研究\一二维码\zxing-2.1\WinForm\bin\Debug\WinForm.application
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.exe.manifest
+E:\技术研究\一二维码\zxing-2.1\WinForm\obj\Debug\WinForm.application
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\WinForm.exe.manifest
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\WinForm.application
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\WinForm.exe
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\WinForm.pdb
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\zxing.dll
+E:\技术研究\一二维码\myzxingTest\WinForm\bin\Debug\zxing.pdb
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\ResolveAssemblyReference.cache
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.Form1.resources
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.exe.manifest
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.application
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.exe
+E:\技术研究\一二维码\myzxingTest\WinForm\obj\Debug\WinForm.pdb
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.exe
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.pdb
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.Form1.resources
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.exe.manifest
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\WinForm.exe.manifest
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\WinForm.application
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\WinForm.exe
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\WinForm.pdb
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\zxing.dll
+G:\New Finder\二维码编码解码器源码\WinForm\bin\Debug\zxing.pdb
+G:\New Finder\二维码编码解码器源码\WinForm\obj\Debug\WinForm.application
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.exe
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.pdb
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.exe.manifest
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.application
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.exe
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\zxing.dll
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\bin\Debug\zxing.pdb
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.exe.manifest
+C:\Users\Administrator\Desktop\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.application
+C:\Users\Administrator\Desktop\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.exe
+C:\Users\Administrator\Desktop\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.exe
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.exe.manifest
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.application
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.exe
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\WinForm.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\zxing.dll
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\bin\Debug\zxing.pdb
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.Form1.resources
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.exe.manifest
+G:\二维码项目\20170319\New Project20170223\二维码编码解码器源码简版\WinForm\obj\Debug\WinForm.application
